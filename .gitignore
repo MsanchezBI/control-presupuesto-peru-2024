@@ -1,0 +1,25 @@
+# ── Datos crudos — pesados, no se versionan ──────────────────
+data/raw/*.csv
+data/raw/*.xlsx
+
+# ── Parquets generados — se regeneran con 02_etl.py ──────────
+output/parquet_final/*.parquet
+output/parquet/*.parquet
+output/*.duckdb
+
+# ── Power BI — opcional según equipo ─────────────────────────
+# Descomenta si no quieres versionar el .pbix
+# *.pbix
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# ── Sistema operativo ─────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
