@@ -14,9 +14,12 @@ El dashboard responde esta pregunta desde tres ángulos: resumen ejecutivo nacio
 
 ## Demo
 
-![Resumen Ejecutivo](docs/screenshots/resumen.png)
-![Análisis Territorial](docs/screenshots/territorial.png)
-![Análisis Sectorial](docs/screenshots/sectorial.png)
+![Resumen Ejecutivo](![Resumen Ejecutivo](https://github.com/user-attachments/assets/4735d5e1-f603-434f-9450-e8fe0b6179aa))
+
+![Análisis Territorial]![Análisis Territorial](https://github.com/user-attachments/assets/0e6d0eb8-845f-45ae-81e5-ed5066dcacde)
+
+![Análisis Sectorial]![Análisis Sectorial](https://github.com/user-attachments/assets/15390886-2b00-48dc-a366-3ff458f32c19)
+
 
 ---
 
